@@ -1,0 +1,29 @@
+---
+date : [2014-08-25]  
+title: 12V DC  
+tag  : CCTV, Router, DVR, LCD-panels
+---
+
+- typical round plug (5.5x2.1mm)
+
+- laptop charger
+  - [100w](http://www.dx.com/p/xiang-zhi-8-in-1-unviersal-ac-dc-car-laptop-charger-black-269659#.U_ugZvldW1U)	$20.38
+  - [90w](http://www.dx.com/p/xiang-zhi-y-l3-8-in-1-universal-ac-dc-power-adapter-for-hp-samsung-laptop-more-black-269683#.U_ugd_ldW1U)	(USB 2A) $27.47
+
+- Power Supply
+  - [80W](http://www.dx.com/p/80w-12v-6-7a-power-supply-ac-adapter-w-5-5-x-2-1mm-dc-adapter-black-292905#.U_uW_fldW1U)	$15.53
+  - [60W](http://www.dx.com/p/60w-12v-5a-power-supply-ac-adapter-w-5-5-x-2-1mm-dc-adapter-black-311234#.U_uW-vldW1U)	$13.74
+  - [48W](http://www.dx.com/p/48w-12v-4a-power-supply-ac-adapter-w-5-5-x-2-1mm-dc-adapter-black-311230#.U_uXEfldW1U)	$12.58
+  - [24W 2-prong](http://www.dx.com/p/power-supply-ac-adapter-for-surveillance-cameras-gps-router-more-5-5-x-2-1mm-plug-125369#.U_uW1vldW1U)	$7.60
+
+- Adapters:
+  - [Male/Femail pair](http://www.dx.com/p/male-female-dc-power-converter-connector-adapters-w-terminal-blocks-for-cctv-camera-pair-317118#.U_uXc_ldW1U)	$2.99
+  - [cheaper pair](http://www.dx.com/p/male-female-dc-power-converter-connector-adapters-w-terminal-blocks-for-cctv-camera-pair-105084#.U_uXw_ldW1U)	$1.51
+  - [LSON Male plugs x 5](http://www.dx.com/p/lson-dc-power-male-plug-connector-adapter-black-5-pcs-289229#.U_uXv_ldW1U)	$2.42
+
+- splitter cable
+  - [2](http://www.dx.com/p/1-to-2-power-splitter-cable-for-cctv-security-system-camera-dc-12v-112982#.U_ubLPldW1U)	$1.96
+  - [4](http://www.dx.com/p/1-to-4-splitter-cable-for-cctv-security-system-camera-dc-12v-111907#.U_ucAPldW1U)		$2.85
+  - [8](https://www.dx.com/p/1-to-8-splitter-cable-for-cctv-security-system-camera-dc-12v-111787)			$3.81
+
+- [microphone pickup](http://www.dx.com/p/high-fidelity-pickup-microphone-for-surveillance-system-dc-6-12v-47040#.U_ufsfldW1U)	$5.22

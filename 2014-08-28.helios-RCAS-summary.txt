@@ -1,0 +1,39 @@
+### [2014-08-28] : Summary of work HELIOS/RCAS
+---
+
+- baseline is **HELIOS-4.1**, with RCAS version **linuxv12.06**.
+
+- Updates:
+    1.  RCAS updated to **linuxv14.08.64a** :
+        + small fixes to commit back to RCAS SVN  
+            * /home/helios/helios/rcasreleases/linuxv14.08.64a/
+            * src/func/cfdhelios2010/cfdiosetup.exc  
+            * src/func/cfdhelios2013/cfdiosetup.exc
+            * src/func/fnharmonicinterpolate.fun
+            * bin/sdx
+            * bin/sdx-clear
+        + example*/rcas/rcas/
+            * rcasinput.rcas updated with grcas
+            * python/rcassdx.py updated for cleaner shutdown/terminate
+    2.  SDX numpy updated :
+        + helios/.../python/{SDX.py,_SDX.so}  
+          single place, instead of copies in each example*/
+        + src/{SDX.i,sdx.h,libsdx.a} in case they need to recompile
+    3. test/verification:
+        + example.cfdhelios2010
+        + example.freefltrim.uh60
+        + example.2r.uh60
+
+### other branches (Adatta rejected):
+---
+
+- 2013-07/08 : **emu_helios_{rotor1,2rotor}/'rcas\_sdx\_cpl.py'** demo/eumulator
+    - class/object access, similar to dict. Beatrice wanted
+    - modular (multi-)rotor, fuselage, etc.
+    - cleaner/declaritive instead of 6D array.
+
+- 2013-09-25 : **example/example.run2**
+    - updated rcassdx.py for cfdhelios2013 (may work)
+    - trying to revive, trim/LCP OK, need to get TCP cycling,  
+       ask hossein to review persolv.rcas (??)
+    - worth the effort(?) ignore()/verify comm. etc.

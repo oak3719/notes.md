@@ -1,0 +1,13 @@
+### Fremont:
+- plant food : kumquat blossom needs 0-10-10 (blue gallon homedepot)
+               nitrate-phosphate-potash
+- make a planter box, need side panels
+- back yard, glass patio, extrude out? need brainstorm and design
+- need needle-nosed plier to fix the broom handle, reinforced with metal rod
+- need to wack out the two backyard columns
+- make a rabbit ear antenna
+- outlet [switches](http://processingandarduino.weebly.com/doctavox.html)
+  with rasberry-pi 
+  [RCSwitch](https://github.com/r10r/rcswitch-pi)  and
+  [WiringPi](https://projects.drogon.net/raspberry-pi/wiringpi/)
+  [AdaFruit](https://www.adafruit.com) and [SparkFun](https://www.sparkfun.com)
